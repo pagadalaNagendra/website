@@ -1,4 +1,5 @@
-Body:
+**Body**:
+**Initial Block**:
 
 1.Welcome to Smart City Research Center
 MEITY (Government of India), Smart City Mission, and the Telangana government have all contributed to the establishment of the Smart City Research Center. The research centre contains a Living Lab, which was set up with the technology support from EBTC and Amsterdam Innovation Arena.
@@ -10,8 +11,11 @@ IIIT Hyderabad is an autonomous institution that was established in 1998 as a no
 The Living Lab concept is built on a collaborative framework and the management of an ecosystem involving various stakeholders. This includes governments, academia, innovators, industry, incubators, and collaboration facilitators.
 
 4.Corporates join hands with Smart City Living Lab
+1.intel
+2.silicon labs
+3.saint gobain
 
-
+**Secondary Block**:
 
 1.1 living lab: User-centered, iterative, open-innovation ecosystem.  ---- bx bx-radar
 
