@@ -11,7 +11,7 @@ IIIT Hyderabad is an autonomous institution that was established in 1998 as a no
 The Living Lab concept is built on a collaborative framework and the management of an ecosystem involving various stakeholders. This includes governments, academia, innovators, industry, incubators, and collaboration facilitators.
 
 4.Corporates join hands with Smart City Living Lab
-images refer image floder
+images refer these floder  https://github.com/pagadalaNagendra/website/tree/deve-nagendra/website-master/Homepage/body/images
 1.intel
 2.silicon labs
 3.saint gobain
