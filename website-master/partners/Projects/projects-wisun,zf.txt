@@ -1,0 +1,42 @@
+Wi-SUN: 
+
+Wi-SUN Deployment in Collaboration With Silicon Labs
+RF Mesh – Enables Last Mile Connectivity for IOT Data
+Automated control through Dashboard
+Self Healing Network
+Interconnectivity through oneM2M
+Wi-SUN (Wireless Smart Utility Network) is a communications protocol designed for large-scale wireless networks, particularly for smart utility and industrial applications. It provides a low-power, wide-area network (LPWAN) solution that enables secure and reliable wireless communication over long distances. Wi-SUN is built on top of the IEEE 802.15.4g standard, which specifies the physical and media access control (MAC) layers for low-rate wireless personal area networks (LR-WPANs). It operates in the sub-GHz frequency bands, typically in the 900 MHz range, allowing for better penetration of obstacles and longer-range coverage compared to higher frequency alternatives. The protocol supports mesh networking, where devices can relay messages for each other, forming a self-healing and scalable network. It utilizes a combination of IPv6 (Internet Protocol version 6) and 6LoWPAN (IPv6 over Low Power Wireless Personal Area Networks) to enable seamless integration with IP-based networks and the Internet. Wi-SUN is particularly suitable for smart metering, street lighting, infrastructure monitoring, and other utility and industrial applications that require long-range, low-power communication. It offers secure, interoperable, and robust connectivity, enabling efficient management and control of large-scale IoT deployments
+
+Wisun Implementation Phase-1 Dashboard(for admin users)
+Wisun Implementation Phase-2 Dashboard(for admin and guest with proper credentials)
+Wisun Implementation Phase-3 Dashboard(for admin and guest with proper credentials)
+Wisun Journey with Silicon Labs
+Wisun Event Launch Drone Video
+Partners
+Our Partners
+Value Proposition
+Partner Projects-Silicon Labs
+Partner Projects-ZF
+
+
+
+Digital twin
+
+Digital Twin for Water Network
+A digital twin for water networks is a virtual replica of the physical water infrastructure, designed to simulate, monitor, and optimize operations in real time. By integrating data from sensors, the digital twin creates a dynamic, accurate model of the actual system, enabling operators to monitor flows, pressure, and overall performance. This virtual model not only mirrors real-time conditions but also uses data-driven insights to simulate different scenarios, predict outcomes, and facilitate proactive management. The continuous visualization of data allows for real-time monitoring and predictive analysis, providing operators with critical insights for better decision-making. By testing strategies in the digital environment before applying them to the physical system, it helps optimize resource allocation and improve overall efficiency. Additionally, its predictive maintenance capabilities assist in scheduling timely repairs, reducing downtime, and ensuring reliable water distribution. Overall, the digital twin is an essential tool for modern smart city initiatives, supporting sustainable water resource management and enhanced decision-making for utilities and urban planners.
+Features:
+
+Real-Time Monitoring
+Visualization
+Efficiency
+Maintenance
+Leakage-detection
+Simulation
+Optimization
+Scalability
+Digital Twin for Water Network
+Partners
+Our Partners
+Value Proposition
+Partner Projects-Silicon Labs
+Partner Projects-ZF

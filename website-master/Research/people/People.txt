@@ -1,0 +1,258 @@
+People
+
+
+Faculty
+
+Dr. Aftab Hussain
+Asst. Professor, Ph.D (KAUST, Saudi Arabia)
+Interest:
+
+Flexible & Stretchable Electronics, IoT, Smart City Research, LoRaWAN Devices
+
+
+Ramesh Loganathan
+Professor of Practice & Co-innovations
+Interest:
+
+Software Engineering, Entrepreneurship, Innovation Leadership
+
+
+Dr. Vishal Garg
+Professor, Ph.D (IIT, Delhi), on leave to Plaksha University
+Interest:
+
+Intelligent Building, IT in Building Science, Fuzzy Logic Based Protocol for WSN
+
+
+Dr. Sachin Chaudhari
+Associate Professor, Ph.D (Alto University, Finland)
+Interest:
+
+Internet of Things (IoT), Next Generation Wireless Communication, Cognitive Radio
+
+
+Dr. Karthik Vaidhyanathan
+Asst. Professor, Ph.D (GSSI, Italy)
+Interest:
+
+Software architecture, Self-adaptive Systems, IoT, ML4SE, SE4ML, Green Software, Model-driven engineering
+
+
+Dr. Deepak Gangadharan
+Asst. Professor, Ph.D (NUS, Singapore)
+Interest:
+
+Edge Based IoT Systems, Real Time Distributed Systems, Hardware/Software Co-Design
+
+
+Prakash Yalla
+Head- Technology Transfer, Products Lab
+Interest:
+
+Enabling Market Relevant Products from Research Lab Output
+
+
+
+
+
+Project Staff
+
+Anuradha Vattem
+Chief Technology Architect
+Interest:
+
+Design and Development of Embedded Systems
+
+
+Vaibhav Naware
+Research Engineer
+Interest:
+
+Automation, Internet of Things(IoT)
+
+
+Ushasri Mogadali
+Research Translation Engineer
+Interest:
+
+Software Engineering,Entrepreneurship,Innovation
+
+
+Kandukuri Prabhakara Rao
+Project Engineer
+Interest:
+
+Internet of Things (IoT)
+
+
+Deepthi Teegavarapu
+Project Associate
+Interest:
+
+Embedded systems,IoT
+
+
+
+
+
+MS by Research
+
+Sai Usha Nagasri Goparaju
+MS student
+Interest:
+
+Internet of things, Image Processing and Computer Vision
+
+
+Surya Suhas Vaddhiparthy
+MS student
+Interest:
+
+Data Science, (Internet of Things)IOT and Machine Learning
+
+
+Ganesh CGS
+MS student
+Interest:
+
+Internet of Things(IOT) and image processing
+
+
+Nilesh Bawankar
+MS student
+Interest:
+
+Internet of things and Machine learning
+
+
+Rishikesh Bose
+MS student
+Interest:
+
+Internet of things and Machine learning.
+
+
+Sasidar Varada
+MS student
+Interest:
+
+Internet of Things (IoT), Embedded Systems
+
+
+VJS Pranavasri
+MS student
+Interest:
+
+OS, Software Engineering, Open Source Development
+
+
+
+Research Interns
+
+Likhith Kanigolla
+Research Intern
+Interest:
+
+DevOps & Cloud Computing, Cyber Security,IoT
+
+
+M Surya Suhaas
+Research Intern
+Interest:
+
+Internet of Things(IOT) , Embedded Systems
+
+
+Pagadala Nagendra
+Research Intern
+Interest:
+
+Web Development,Machine Learning ,software Development
+
+
+Lokabhiram Chintada
+Research Intern
+Interest:
+
+Machine Learning, Image Processing, Internet of Things(IoT)
+
+
+Dune Krishna Sai Manikanta
+Research Intern
+Interest:
+
+Web development
+
+
+Himanshu Shankar Fanibhare
+Research Intern
+Interest:
+
+Hardware
+
+
+Kartik Gharde
+Research Intern
+Interest:
+
+Embedded systems,Internet of Things(IoT)
+
+
+Peri Reddy Vaka
+Research Intern
+Interest:
+
+Web development and Machine learning
+
+
+
+Other Contributers
+• Ayu Parmar
+• Noopur Kalambe
+• Ajai Mathew
+• Leo Francis
+• Shubham Mante
+• Sam Godithi
+• Anuriha Kodali
+• Siddharth Prakash
+• Rajshekhar Reddy
+• Ihita Gangavarapu
+• Ruthwik Muppala
+• Him Agarwal
+• Sara Spanddhana
+• PSV Kaushik
+• Ayush Kumar Diwedi
+• Jaiwanth
+• Shubodh
+• Akash Dantre
+• Prabhav Bansal
+• Mohith
+• Aakash Bathini
+• Ashrith
+• Jaison
+• Dr. Pradeep C
+• Tarun
+• David
+• Kalvakuntla Sai Santhoshi
+• Noopur
+• Shriya Sai Konakalla
+• Shreya
+• Deepthi
+• suraj
+• Nagesh
+• Ashwini
+• Sanskruti
+• Vignesh Ramkrishnan
+• Prasanth
+• Pratyay
+• Vamsi
+• Navami
+• Nikhil
+• Gaurav Pal
+• Yalla Jairam Kaushik
+• Manognya Sree Gengi
+• Joswitha Palipe
+
+
+Note: 
+it getting data from api

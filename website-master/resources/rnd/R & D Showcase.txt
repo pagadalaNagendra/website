@@ -1,0 +1,31 @@
+R & D Showcase
+R & D ShowCase - 2024
+
+
+Living Lab Mobile APP
+
+Smart City Living Lab
+
+City IoT Operating Platform (ctOP)
+
+Digital Twin for Water Quantity
+
+MAINTENANCE DASHBOARD
+
+SMART SPACES
+
+Wi-SUN Network Connecting To Utilities
+
+Scalable and Interoperable Distributed Architecture for IoT in Smart Cities
+
+
+R & D ShowCase - 2023
+
+
+
+Dense deployment of low-cost Air quality IOT network & ML-based calibration for mobile measurements
+
+etc....
+
+
+it getting data from api website

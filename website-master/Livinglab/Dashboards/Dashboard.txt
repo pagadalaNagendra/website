@@ -1,0 +1,14 @@
+A dashboard is a type of graphical user interface which often provides at-a-glance views of key performance indicators (KPIs) relevant to a particular objective or business process. In other usage, "dashboard" is another name for "progress report" or "report."
+
+The "dashboard" is often displayed on a web page which is linked to a database that allows the report to be constantly updated.
+
+Features
+Data from multiple sources like energy meters, Solar, Weather, Pollution, Water Meters etc. are presented on a single Wall dashboard in a control room like setting
+An interactive and live dashboard relaying latest data about the institute, which can be manipulated to drill down through minimum of 4 levels.
+Visibility of single Building/block level parameters (Ex: Power, Energy, Current, PF etc.).
+Selection a building/block will allows one to drill down and interact with data which is visualized in a way that is easy for operators to gain visibility of their operations.
+Data is archived and visualized in a manner it is useful for descriptive analytics, for purposes like root cause finding etc.
+
+
+Facing difficulty in viewing the dashboard above ? Open it in independent tab.
+

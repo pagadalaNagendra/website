@@ -1,0 +1,203 @@
+Key Focus Areas for Research
+List of key research focus areas at Smart City Research Center
+
+Air Quality
+Air Quality monitor to measure different pollutants present in the atmosphere.
+
+Water Supply/distribution and Quality Management
+Water quality and distribution monitor to measure pH, Turbidity, TDS, water level and water flow of the water supply.
+
+Weather
+Weather monitor to measure temperature, humidity, intensity of sun and wind condition.
+
+Energy
+Energy monitor to measure the power consumption, peak demand and other important aspects of the energy consumption in the given area.
+
+Smart Spaces
+Monitors and collect data for multiple parameters and controls the units to enable efficient power consumption and enable healthy environment.
+
+Smart Lamp post
+Monitors and collects lot of parameters to reduce energy use and to enhance public safety.
+
+Structural Health
+Monitors and collects parameter to monitor the structure health of the building
+
+
+Air Quality :
+
+
+Why is it important?
+Air pollution is one of the world’s largest environmental causes of diseases and premature deaths. Out of different air pollutants, particulate matter (PM) has been identified as one of the most dangerous pollutants. Every year millions of people die and many more become seriously ill with cardiovascular and respiratory diseases because of long-term exposure to PM. With increasing urbanization, the situation is only going to get worse.
+
+AQI	Remarks	Colour	Effect on health
+0-50	Good		Minimal Effect
+51-100	Satisfactory		Minor breathing discomfort to sensitive people
+101-200	Moderate		Breathing discomfort to the people with lungs, asthma and heart diseases
+201-300	Poor		Breathing discomfort to most people on prolonged exposure
+301-400	Very Poor		Respiratory illness on prolonged exposure
+over 400	Severe		Affects healthy people and seriously impacts those with existing diseases
+What are we trying to do?
+A low cost sensor node was developed in IIIT to measure the level of Particulate Matter and other air impurities.The denser deployment of such low-cost sensors can provide real-time access of pollution data with high spatio-temporal resolution. Hence these low-cost portable ambient sensor nodes provide a huge opportunity in increasing the spatio-temporal resolution of the air pollution information and are even able to verify, fine-tune or improve the existing ambient air quality models. Government and citizens can use this information to identify pollution hot-spots, to make timely and localized decisions regarding reduction and prevention of air pollution.
+
+
+Features
+
+Monitor the quality of air in and around the campus by measuring the following parameters
+PM2.5, PM10 in μg/m³
+Temperature in °C and RH in %
+CO, NO2, NH3, CO2 concentrations in ppm
+AQI(Air Quality indicator)
+Issue alerts in case the quality deteriorates below acceptable levels.
+Data logging available for every 15 minutes
+Denser deployment identifying pollution at minute level.
+Research
+
+Denser deployment identifying pollution at minute level.
+Data analytical models for extrapolating the measurements at micro level and macro level.
+Data Model & Datasets
+
+
+
+2.Water Supply/distribution and Quality Management
+
+
+Why is it important?
+Water is one the most important and basic requirements of human beings. There is only about 0.3% of usable water and rest is sea water and frozen in glaciers.
+
+The main sources of water pollution are the following:
+
+Discharge of untreated Raw Sewage from households and factories
+Chemicals dumped from Factories
+Agricultural run-offs that make their way into our rivers and streams and groundwater sources Urbanization
+The rising use of synthetic organic substances
+Oil Spills
+Acid Rain caused by the burning of Fossil Fuels
+Human littering in rivers, oceans, lakes and other bodies of water. Harmful litter includes plastics, aluminium, glass and Styrofoam.
+Impact
+Substance	Effect on health
+Chemicals	water also has negative effects on our health.
+Pesticides	can damage the nervous system and cause cancer because of the carbonates and organophosphates that they contain. Chlorides can cause reproductive and endocrinal damage.
+Nitrates	are especially dangerous to babies that drink formula milk. It restricts the amount of oxygen in the brain and causes the “blue baby” syndrome.
+Lead	can accumulate in the body and damage the central nervous system.
+Arsenic	causes liver damage, skin cancer and vascular diseases
+Fluorides	excessive amounts can make your teeth yellow and cause damage to the spinal cord.
+Petrochemicals	even with very low exposure, can cause cancer.
+What are we trying to do?
+At IIIT Hyderabad we are measuring the TDS, pH, turbidity and water level. Keeping a look at the water level we can regulate the water usage and problems with the water system. This will reduce the wastage of water. We can monitor the level of pollutants so that we can filter it more.
+
+
+Features
+
+Monitor the quality and quantity of water in and around the campus by measuring the following parameters
+pH
+Turbidity in NTU
+Salinity(TDS) in ppm
+Water level in cm
+Water flow
+Issue alerts in case the quality deteriorates below acceptable levels or Leakage detection
+Data logging available for every 5 minutes
+Denser deployment identifying pollution at minute level.
+Water saving by controlling the water supply as per the consumption requirement
+Research
+
+Understanding the water consumption for a defined area and population using water flow sensors and Leakage detection is also done by using the same data.
+Water saving by controlling the water supply as per the consumption requirement.
+Data Model & Datasets
+
+
+
+
+
+3.Weather Monitoring
+
+
+
+
+What is it important?
+Weather variables such as wind speed and direction, air temperature, humidity and rainfall are important factors in determining the course of a wide range of events. For example, agriculture has always been heavily dependent on the weather and weather forecasts, both for its control on the quality and quantity of a harvest and its effect on the farmer’s ability to work the land or to graze his stock. Weather monitoring is also important not just in defining present climate, but also for detecting climate change and providing the data to input into models which enable us to predict future changes in our environment.
+
+What are we trying to do?
+A low cost sensor node was developed in IIIT to measure the level of Particulate Matter. The low-cost portable ambient sensors provide a huge opportunity in increasing the spatio-temporal resolution of the air pollution information and are even able to verify, fine-tune or improve the existing ambient air quality models. IoT along with dense deployment of such low-cost sensors can provide real-time access of pollution data with high spatio-temporal resolution. Government and citizens can use this information to identify pollution hot-spots so that timely and localized decisions can be made regarding reducing and preventing air pollution.
+
+
+Features
+
+Monitor the quality of air in and around the campus by measuring the following parameters
+Humidity in %
+Temperature in °C
+Global Horizontal Solar Radiation in W/m2
+Wind Speed in mph
+Wind Direction in degrees
+Battery DC Voltage
+Issue alerts in case the quality deteriorates below acceptable levels.
+Data logging time programmable from 1 minute to 18 hours.
+Identifying and mapping of corridors of pathogens that cause health hazards/epidemics by correlating micro climatic & pollution data.
+Research
+
+Dataset complements the energy dataset and solar dataset.
+Identifying and mapping of corridors of pathogens that cause health hazards/epidemics by correlating micro climatic & pollution data.
+Data Model & Datasets
+
+
+
+4.Solar Power Monitoring
+
+
+
+Why is it important?
+Energy from fossil fuels like coal produce a huge amount of carbon footprint. That is adversely affecting the climate of this world and is also in limited amounts. A renewable source of energy is needed with less carbon footprint. Thus, we are using solar energy as an alternative to fossil fuel. This does not have much carbon footprint. But there are problems associated with solar energy. Solar panels, our main source to harness solar energy, are not very efficient and it requires a large amount of investment in the land area.
+
+What are we trying to do?
+At IIIT we are developing a method to increase the performance of solar panels by measuring the power produced and using a camera to track the movement of sun and adjust the panels automatically to give the maximum output. We also measure the difference in CO2 that happened because of using solar panels.
+
+
+Features
+
+Monitor and measure the following energy related parameters for the solar installations using smart energy meters
+Voltage & Current in each phase
+Power factor
+Power consumption (VA), Signed active power (KW), Signed reactive power (kVAr)
+Energy consumption in KW & KVA
+Maximum demand(peak load) in KWh
+Growatt Inverters are used to interface with the solar installation. It provides the following parameters to the App
+PV capacity
+Generation
+Revenue
+CO2 (reduced)
+Alphea 6CW cameras are used for taking sky images.
+Fault identification and diagnostics based on the predicted energy(using sky images and weather inputs) and actual power generated.
+Research
+
+Fault identification and diagnostics based on the predicted energy(using sky images and weather inputs) and actual power generated.
+Dataset can be used for predicting cloud movement.
+Data Model & Datasets
+
+
+
+
+
+Conventional Energy
+What is it important?
+Energy Measurement is a necessity nowadays. As the consumption of energy is increasing more fuel is used in the production of the energy. This results in the increase of greenhouse gases and this results in an increase in average temperature of the planet. This results in melting of the glaciers, increase in sea level and change in climate condition.
+
+What are we trying to do?
+Power consumption is monitored at regular intervals to regulate the usage of electronic appliances and help in reducing the power consumption. Its also gives us details about voltage and current that is consumed.
+
+
+Features
+
+Monitor and measure the following energy related parameters in and around the campus
+Voltage & Current in each phase
+Frequency
+Power factor
+Power consumption (VA), Signed active power (KW), Signed reactive power (kVAr)
+Energy consumption in KW & KVA
+Maximum demand(peak load) in KWh
+Crystal(CT/Non-CT) smart Energy Meters are used.
+IOT interface using LORAWAN(<1GHZ) to enable wide range reliable deployment with minimal infrastructure and low power consumption.
+Potential power saving.
+Research
+
+IoT interface using LORAWAN (<1GHZ) to enable wide range reliable deployment with minimal infrastructure and low power consumption.
+Data Model & Datasets
+

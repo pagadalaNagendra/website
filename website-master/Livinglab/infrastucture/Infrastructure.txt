@@ -1,0 +1,39 @@
+
+Infrastructure
+
+The campus is already equipped with established infrastructure available for Living lab apart from the dedicated spaces allocated for the Living Lab. The infrastructure can be broadly classified as
+Building infrastructure
+Communication infrastructure
+Storage infrastructure
+Dedicated infrastructure for Living Lab
+Building infrastructure
+3 Large research blocks (each with 100k – 250k sq. feet)
+1 lecture block
+2 Incubators (T-Hub with 65k sq. feet and 800 seats. IIITH-CIE with 40k sq. feet and 500 seats)
+Product Lab (with Maker Lab)
+5 Large Dorms (400 in each)
+2 Faculty housing blocks (50 apartments)
+Art/Craft center
+Guest house
+Campus medical clinic
+5 Student messes
+5 food stalls
+Communication Infrastructure
+Wi-Fi (dedicated for sensors)
+LORA (a private local, as well as larger cloud centred)
+Wired network
+5G (proposed for 2021-2022)
+Storage Infrastructure
+Development Containers
+OM2M Server
+Thingspeak Server
+Dedicated infrastructure for Living Labs
+Smart City research centre
+Building Sciences research
+Supported by allied centres-Signal Processing, VLSI-embedded systems, AI/ML
+Smart Campus Control room
+Dashboard
+Demo setup
+Sensor workbenches
+Seminar and Meetings
+Dedicated conference room at Control Room

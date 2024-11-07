@@ -1,0 +1,48 @@
+
+Sai Usha Nagasri Goparaju, SVSLN Surya Suhas Vaddhiparthy, Pradeep C, Anuradha Vattem, Deepak Gangadharan \"Design of an IoT System for Machine Learning Calibrated TDS Measurement in Smart Campus\", accepted in WF-IoT 2021
+S. Deb, C. Rajashekar, S. Chaudhari, K. Vemuri, K. S. Rajan, \"IoT Network-Based Analysis of Variations in Particulate Matter Due to COVID-19 Lockdown\", accepted in CONECCT 2021
+C. Rajashekar, S. Chaudhari, Hierarchical Clustering based Spatial Sampling of Particulate Matter Nodes in IoT Network, accepted in WF-IoT, 2021
+I. Patwardhan, S. Sara, S. Chaudhari, Comparative evaluation of new low-cost particulatematter sensors, accepted in FiCloud 2021
+G. Ihita, S. Viswanadh. S. Yelishetty, S. Gaur, S. Chaudhari, Security Analysis of Large Scale IoT Network for Pollution Monitoring in Urban India, accepted in WF-IoT 2021
+A. Lall, A. Khendelwal, R. Bose, N. Bawankar, A. Dwivedi, N. Nitin, S. Chaudhari, Low Cost Retrofitting of Analog Water Meter for Digitization, accepted in FiCloud 2021
+Shubham Mante, Ruthwik Muppala, D Niteesh, Aftab M Hussain Energy Monitoring Using LoRaWAN-based Smart Meters and oneM2M Platform, accepted in Sensors 2021
+Deeksha Devendra, Shubham Mante, D. Niteesh, Aftab M. Hussain \"Electric Vehicle Charging Station using Open Charge Point Protocol (OCPP) and oneM2M Platform for Enhanced Functionality\", accepted in TENCON 2021
+Shubham Mante, Nathalie Hernandez, Aftab Hussain, Sachin Chaudhari, Deepak Gangadharan and Thierry Monteil \"5D-IoT, a Semantic Web Based Framework for Assessing IoT Data Quality\", accepted in 37th ACM/SIGAPP Symposium On Applied Computing (SAC), 2022
+Md Anam Raihan, Kuntal Chattopadhyay, Aviruch Bhatia, Vishal Garg, Aftab M Hussain \"Energy analysis of semi-transparent building integrated photovoltaic window in Hyderabad, India using automated parametric simulations\", accepted in ICSREE 2021
+Shubham Mante, SVSLN Surya Suhas Vaddhiparthy, Muppala Ruthwik, Deepak Gangadharan, Aftab M Hussain, Anuradha Vattem "A Multi Layer Data Platform Architecture for Smart Cities using oneM2M and IUDX", accepted in WF-IoT 2021​
+A. Kumar Lall, A. Khandelwal, N. Nilesh, S. Chaudhari "Improving IoT-based Smart Retrofit Model forAnalog Water Meters using DL based Algorithm", accepted in FiCloud 2022​
+Rishikesh Bose, Ayu Parmar, Harsha Narla, Sachin Chaudhari "Comparative Evaluation of Low-Cost CO2 Sensorsfor Indoor Air Pollution Monitoring", accepted in WF-IoT 2022​
+A. Kumar Lall, A. Khandelwal, R. Bose, N. Bawankar, N. Nilesh, A. Dwivedi, S. Chaudhari "Making Analog Water Meter Smart using ML and IoT-based Low-Cost Retrofitting", accepted in FiCloud 2021​
+VJS Pranavasri, Leo Francis, Ushasri Mogadali, Gaurav Pal, SVSLN Surya Suhas Vaddhiparthy, Anuradha Vattem, Karthik Vaidhyanathan, Deepak Gangadharan "Scalable and Interoperable Distributed Architecture for IoT in Smart Cities"
+Rohan Gupta, Vaibhav Naware, Anuradha Vattem, , Aftab M. Hussain "A Wi-SUN Network-based Electric Vehicle Charging Station using Open Charge Point Protocol (OCPP) and oneM2M Platform"
+Vaibhav Naware, Aditya Gupta, Ushasri Mogadali, Anuradha Vattem, Aftab M. Hussain "Smart Street Light System using Wi-SUN and oneM2M"
+VJS Pranavasri, Leo Francis, Gaurav Pal, Ushasri Mogadali, Anuradha Vattem, Karthik Vaidhyanathan, and Deepak Gangadharan "Exploratory Study of oneM2M-based Interoperability Architectures for IoT: A Smart City Perspective"
+Likhith Kanigolla, Gaurav Pal, Karthik Vaidhyanathan,Deepak Gangadharan,Anuradha Vattem "Architecting Digital Twin for Smart City Systems: A Case Study"
+G.V. Ihita,Vybhav.K,Acharya,Likhith Kanigolla,S. Chaudhari,Thierry Monteil "Security for oneM2M-Based Smart City Network: An OM2M Implementation"
+
+
+
+
+Patents
+
+Low cost retrofit for digitisation of analog water meter, Rishikesh Bose, Nilesh Bawankar
+
+Air quality monitoring device for monitoring an air-quality with less energy consumption, Prof. Sachin Chaudhari, Rajashekar Reddy Chinthalapani, Ayu Parmar, Ayush Dwivedi, Niranjan Keesara, Mahesh Murty (Applied for all India patent)
+
+S. Chaudhari, E. Sriram, T. Bhat, 'WATER LEVEL MEASURING DEVICE," Design No. 406097-001, The Patent Office, The Government of India, Mar. 2024
+
+S. Chaudhari, J. Josh, T. David, 'SENSIBLE FLOW WATER METER," Design No. 389016-001, The Patent Office, The Government of India, Feb. 2024
+
+S. Chaudhari, A. Parmar, A. Dwivedi, 'AIR QUALITY MONITORING DEVICE," Design No. 383624-001, The Patent Office, The Government of India, Jan. 2024
+
+S. Chaudhari, R. Yelekar, T. David, 'SMART RETROFIT FOR ANALOG WATER METER," Design No. 389211-001, The Patent Office, The Government of India, Jun. 2023
+
+S. Chaudhari, N. Bawankar, A. Dwivedi, 'SMART RETROFIT FOR ANALOG WATER METER," Design No. 383623-001, The Patent Office, The Government of India, Apr. 2023
+
+S.Sachin Chaudhari, Ishan Patwardhan 'PORTABLE AIR QUALITY AND TRAFFIC MONITORING DEVICE'.
+
+S.Sachin Chaudhari, Aishwaryabharathi Upadhyayula, Thomas David Tency, Tanmay Bhatt'SYSTEM AND METHOD FOR MONITORING WATER-LEVEL IN A BOREWELL USING LORAWAN'.
+
+S.Sachin Chaudhari, Ayush Dwivedi, Rishikesh Bose, Nilesh Bawankar, Ayush Kumar Lall, Ansh Khandelwal, Nitin Nilesh ' SYSTEM AND METHOD FOR DIGITIZING IN ANALOG WATER METER USING MACHINE LEARNING'.
+
+S.Sachin Chaudhari, Rajashekar Reddy Chinthalapani, Ayu Parmar, Ayush Dwivedi, Niranjan Keesara, Mahesh Murty'AIR QUALITY MONITORING DEVICE FOR MONITORING AN AIR QUALITY WITH LESS ENERGY CONSUMPTION'.

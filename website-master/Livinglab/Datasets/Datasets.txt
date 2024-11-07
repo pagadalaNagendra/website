@@ -1,0 +1,19 @@
+We in SmartCity Living Lab have made our datasets available to the public through Indian Urban Data Exchange [IUDX]. Given below is the architecture and the detalis of these datasets for public use.
+
+
+The IUDX Program is a pioneering initiative that enables the use of data for public benefit. It was born from the desire to improve data interchange by connecting heterogeneous and distant data silos using a standard set of sharing protocols. IUDX's cutting-edge, open-source software platform is a critical instrument in realizing the vision of data-driven cities. It allows for the controlled and secure sharing of all non-personal data. This allows data suppliers to develop innovative services and generate value. Currently, we aim to assist smart city administrations by facilitating data exchange between various civic authorities, municipal agencies, application developers, and data consumers. It is implemented as a centralized component that occupies a public cloud infrastructure. As part of the IUDX/IIITH collaboration, we host an IUDX resource server (IUDX-RS). This allows us to make the data available to any IUDX registered user via IUDX APIs that interface to a IUDX-RS instance. We manage the interworking process by using data models that have been standardised for various verticals based on the interaction between IUDX and IIITH for the Smart City Living Lab. Data models enable a user to understand the parameters for sensor data and then use the data for analytics and application development purposes. Of course, there is an opportunity to provide this as a standard template for smart city implementation across India. Prior to this collaboration, there was no framework for interfacing oneM2M with IUDX. Thanks to this collaboration, our pilot implementation provides a framework that designers can adapt for any similar smart city implementation with oneM2M.
+This allows clients
+to register and discover resources,
+to understand the data models and data descriptors,
+to specify the usage policies and to obtain consent and access tokens.
+
+The Resource Access Service: This interface is implemented as a distributed resource proxy layer and located within IIITH premises as an On Premises cloud solution. It connects with the data storage layer and the oneM2M-Data monitoring layer which correspond to Smart City Living Lab’s Data lake.
+IUDX Authentication and Authorization Service: Every user needs to be registered as an IUDX user. They need to present a valid authorization token to obtain data from the Data Lake. The exchange layer checks for the authenticity of the user through a shared key between IUDX-IIITH.
+Application Programming Interface: Once authenticated, the user can retrieve data through the APIs defined in the IUDX standard. The data flow from the node to the end user is structured to enable a smooth and reliable exchange of data.
+
+IIITH Datasets on IUDX
+Below are the datasets available for the consumption.
+
+We have also made a custom dashboard using IUDX API to show the application and the use cases for these datasets. Click below to go to the analytics dashboard
+
+Go to Analytics

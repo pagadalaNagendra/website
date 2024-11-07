@@ -1,0 +1,244 @@
+Challenges and Hackathons
+1. Smart City Research Center at IIIT Hyderabad is planning to conduct various Challenges and Hackathons to bring new solutions and technologies to our rapidly changing world by making our Living Lab handy as a test bed to get the ideas and technologies blend.
+2. In this context, the centre invite proposals for challenges from organizations/ individuals having similar interests.
+3. The Challenge proposals are invited for any challenge involving IoT / AI based solutions in the following areas but not limited to
+
+Environmental Quality Monitoring (Air Quality & Weather Monitoring)
+Water Quality and Quantity
+Conventional & Renewable Power
+Intelligent Transportation systems
+Smart Rooms and so on…
+
+
+
+
+
+Recent Challenges
+1. Wi-SUN Smart City Challenge - 2024
+
+
+About the program
+The Smart City Living Lab Wi-SUN Challenge aims to support hardware innovators/ Start-ups/ Academic Institutions to develop workable prototypes utilizing the Wi-SUN RF mesh. This challenge is proposed to encourage students,hardware startups and MSME’s to make best utilization of the Wi-SUN network. The Final winners will be awarded Prize money worth Rs.8 Lakhs. Grant Challenge thus enables young entrepreneurs to initiate technology start-up companies for commercial exploitation of technologies they developed.
+
+Focus Areas
+ Smart Energy Solutions
+Battery powered Smart Utility (Water/Gas) solutions
+Edge Intelligence
+Network Security
+Long Battery Life
+Environment and Clean Energy Solutions
+Mobility and Transport
+Predictive Maintenance
+Waste Management
+Smart Agriculture
+Solar harvesting
+Top 3 winners for Smart City Challenge - 2024
+DBR Innovative Tech
+DBR Innovative Tech
+🥇 1st place 🥇
+
+Title: Farmer Voice
+Horus
+Horus
+🥈 2nd place 🥈
+
+Title: ML-Driven Solar Maintenance with Wi-Sun Connectivity
+Yantram Electronics
+Yantram Electronics
+🥉 3rd place 🥉
+
+Title: Wireless Metering Solution
+Top 10 Finalist Teams for Smart City Challenge - 2024
+ThinkSkill Logo
+Team IconEco-Sense
+Team IconSmart Waste Management System with Wi-SUN Mesh Technology for Sustainable Urban Environments
+The demonstration showcased a smart waste management system with two dustbins—one outdoor and one indoor—both connected via a Wi-SUN network. Real-time monitoring of fill levels was displayed, with data transmitted to a central system. Using unique dustbin IDs, the system tracked locations and optimized waste collection routes. The team explained the process of data collection, transmission through the Wi-SUN network, and how it ensured efficient communication for streamlined waste collection.
+
+Demo video: Click here
+
+Team IconVayu
+Team IconDense Deployment for PM Monitoring using Wi-SUN
+Two air quality monitoring nodes with Wi-SUN technology were deployed at IIIT to demonstrate localized air pollution. One node was placed near a construction site, and the other 500 meters away, showing how local factors affected air quality over short distances. The project highlighted the need for dense sensor networks and how Wi-SUN enabled interconnected environmental monitoring systems.
+
+Demo video: Click here
+
+Virtual Labs Logo
+ThinkSkill Logo
+Team IconRadiance
+Team IconDecentralized Fault Detection For Street Lights
+At IIIT Hyderabad, a smart streetlight system was demonstrated with two streetlights. One operated normally, showing real-time metrics like energy use and brightness on a dashboard. The second simulated a fault, with the system detecting the issue and displaying it on the dashboard. This highlighted the system’s ability to monitor operations and respond to faults in real time.
+
+Demo video: Click here
+
+Team IconHorus
+Team IconML-Driven Solar Maintenance with Wi-Sun Connectivity
+They showcased a real-time solar panel monitoring system using IoT sensors and machine learning. Wi-SUN LFN devices collected detailed data from the solar panels, which was analyzed by machine learning models to optimize performance and enable predictive maintenance for efficient solar energy management.
+
+Demo video: Click here
+
+Virtual Labs Logo
+ThinkSkill Logo
+Team IconAntar IoT
+Team IconIoT-Based 4G Real-Time Water Quality Monitoring System for Smart Cities
+The team developed a self-sustaining buoy system powered by solar panels and a lithium battery, which lasted 3-4 months without solar recharging. Equipped with sensors for water quality (temperature, TDS, turbidity, pH), the buoy transmitted real-time data via Wi-SUN modules for long-range, low-power connectivity. The data was displayed on a dashboard for real-time monitoring and visualization, providing a scalable solution for remote water quality management.
+
+Demo video: Click here
+
+Team IconYantram Electronics
+Team IconWireless Metering Solution
+The demo showcased the transmission of 1-phase/3-phase electric metering data over Wi-SUN from meters at IIIT-H to a dashboard. It included data reporting and alerts, highlighting how Wi-SUN enabled sub-metering in multi-unit housing and commercial establishments.
+
+Demo video: Click here
+
+Virtual Labs Logo
+ThinkSkill Logo
+Team IconwareBot
+Team IconWareBOT - Smart Warehouse Management Bot, on autopilot.
+In the demo, WareBOT simulated a warehouse environment at IIIT-H by raising the room temperature. Once it exceeded the threshold, WareBOT automatically activated the fan or AC, showcasing its real-time climate control capabilities. Designed for warehouse management, WareBOT optimized energy usage and protected inventory by ensuring environmental conditions without manual intervention.
+
+Demo video: Click here
+
+Team IconDBR Innovative Tech Team
+Team IconFarmer Voice
+The demo featured an IoT device capturing real-time data on soil nutrients, moisture, and crop images, sent to a cloud-based web app with Telugu voice commands. Key features included pest detection, soil nutrient analysis, and direct buyer connectivity. The demo showed how this technology helped farmers reduce costs, improve yields, and increase profitability.
+
+Demo video: Click here
+
+Virtual Labs Logo
+ThinkSkill Logo
+Team IconHydrowverse
+Team IconIoT-based Smart Water Level Monitoring using Wi-SUN
+Two water level monitoring nodes using Wi-SUN technology were deployed at IIIT-Hyderabad: one on the Overhead Tanks and another at the pilot testing tank in the Smart City Living Lab. This setup demonstrated real-time water level tracking and efficient long-range communication, showcasing the system's potential for resource management and industry monitoring applications.
+
+Demo video: Click here
+
+
+
+
+
+2. Water Challenge 1
+
+Sponsored By:
+
+Govt. of
+Telangana
+
+NIUM
+
+
+Oceo Water Pvt Ltd, IIITH - Smart Water Meter Solutions, and Kritsnam Technologies Pvt. Ltd were announced as Winners
+Startup Challenge
+
+
+
+Water challenge was launched by Smart City Living Lab, IIITH in association with Government of Telangana & NIUM together in Feb-March, 2021 timeframe to find viable solutions to the problems faced regarding water quality, supply and non-revenue water by the cities.
+The panellists were from Academia (IIITH), Government bodies (MEITY, HMWSSB, NIUM), private consultants from WRI, and technology partners EBTC.
+The topics of the challenge were :
+
+- Non-revenue Water (Water revenue lost due to unaccounted water, pipe-breakage or lost in tanks or in pilferage, etc.)
+- Water Quality and Quantity Monitoring
+- Wastewater industrial/sewerage etc and rain-water
+- Water drains
+-Open innovation
+
+The panelists announced three winners after multiple rounds and thorough screening
+
+- Oceo Water Pvt Ltd - Pipeline Water Leak Detection from Space (Jalashay): AI enabled hydrological analytics derived from Satellite images to help public utilities to forecast accurately and detect water leakages in water transmission networks without physically being present on the field.
+- IIITH - Smart Water Meter Solutions: Low cost retrofit for digitisation of analog water meter, a viable replacement of expensive digital water meters.
+- Kritsnam Technologies Pvt. Ltd - water flow meter: For bulk water supply, an inline ultrasonic flow metre is used. An excellent tool for monitoring water flows in pipelines in real-time.
+
+
+
+
+
+MinionLabs and Vacus Tech Pvt Ltd were announced as Winners
+
+
+
+About the program
+Aligning to the Indian Government's goal to create 100 smart cities, we bring the private and public sector together with research facilities to work on the challenges of smart cities.Our vision to support and scale startups that are building sustainable, inclusive and innovative solutions for smart cities. It is a 1 month-long program that gives selected startups an opportunity to pitch the to the leaders in the smart city ecosystem and to win an equity-free grant of 10 Lakhs for further development.
+Winners MinionLabs is an innovative energy management solution provider, offering a compact device that enables easy energy auditing and analysis. With their non-intrusive technology, Minion accurately monitors appliances and devices, providing actionable insights for predictive analytics and maintenance. Their success stories include renowned clients such as Cisco Systems and Accenture, making Minion a trusted choice for energy savings and efficient operations. Visit their website at https://www.minionlabs.tech/ to learn more about their solutions. Vacus Tech Pvt Ltd is a leading wireless indoor positioning company with a patented technology that allows precise tracking and accounting of assets and people. Their configurable fencing system ensures safety and security by automating location tracking, panic alarms, and employee mustering during evacuations. With clients like Astra Zeneca and Tata Motors, Vacus Tech offers enhanced productivity, cost savings, and improved safety measures. Discover more about their solutions at https://www.vacustech.com.
+
+Focus Areas
+Water Management and Water Supply/Distribution
+Waste Management
+Safety and Security
+Health
+Energy
+Any other smart city solutions or other products with smart city use cases
+
+Why Should You Apply?
+By connecting startups with those searching for smart city solutions, together we will amplify the transformation of city infrastructure and services to help enrich people’s lives.
+
+ Winner will be awarded a grant amount of 10 Lakhs.
+ Finalist will pitch to pitch to 10 leading smart city technology companies.
+ Selected teams may be considered for a pilot project in the state of Telangana.
+ Will be listed in a smart city innovation listing that will be shared with all.
+ Winner will be awarded a grant amount of 10 Lakhs.
+ Will get listed in the meity startup hub.
+
+Who Should Apply?
+ Tech Startups working with products with smart city use cases.
+ Have market ready product with or without customers (Revenue is desirable).
+ Expertise in commercially deploying the solution.
+ Research with market ready product may also apply.
+About SmartCity Living Labs
+The Smart City Research Center is set up with support from MEITY (Government of India), Smart City Mission and Government of Telangana at IIITH. The research center includes a Living Lab, that is a setup with support from EBTC and Amsterdam Innovation Arena. The Building on the Smart Campus @ IIITH Smart City Research Center is based on the following Objectives: There is a huge push for smart cities in India under the Smart Cities Mission, a new initiative by the Government of India to drive economic growth and improve the quality of life of people by enabling local development and harnessing technology to create smart outcomes for citizens. In this ambitious project, 100 cities are being covered for the duration of 5 years with a budget of Rs.100 crore per city per year. The goal of the Living Lab plan is to create an urban area enhancing three value domains: social, economic and environmental. Thus developed Living Lab shall enable the following:
+
+Generate data for research
+Get expertise in IoT for Smart Cities related research and deployment
+Creation of a viable innovation and demand driven ecosystem in universities.
+Provide a test bench for IoT based Smart City implementations to start-ups as well as big companies
+FAQ
+Q: What is the challenge Timeline?
+Q: What is the selection process?
+Q: What is the Judgement criteria?
+
+
+
+
+Back To Campus Challenge:
+
+
+About the program
+With vaccinations and a general easing of the pandemic, people, employees and students will soon return back to campuses. Smart City Living Lab at IIITH is launching “Back to campus startup challenge”, a unique platform for the private and public sector to discover digital capabilities to help campuses stay nimble during trying times. This back-to-campus safety & security technologies challenge is envisioned to scout for those innovations and to bring the private and public sector together with research facilities to work on the post covid challenges. A campaign for startups and innovators to showcase solutions (customer-ready) that can help with ensuring safety & security of campuses as people return back to work. To help with cleanliness, hygiene, social distancing, detecting symptoms and such.
+
+Focus Areas
+Testing and screening for people on the campus
+Automatic cleaning and sanitation
+Crowd control/monitoring (people, vehicles, Queue/ Social distancing)
+Remote temperature/health monitoring
+Air quality to prevent infection(Mitigation of covid aerosols in the campuses)
+Social distancing and contactless solutions for commerce
+
+Why Should You Apply?
+Finalists get a chance to:
+
+ Set up a live demo in the smart campus at IIIT H. Cost will be covered by IIITH.
+ Showcase the solutions to IT park chiefs, Facility managers, education institutions and other corporates invited.
+
+Who Should Apply?
+ Startups/teams working on the above-mentioned areas in the post prototype stage.
+ Startups/teams with a working prototype with market validation preferred but not mandatory.
+About SmartCity Living Labs
+Smart City Research Center is set up with support from MEITY (Government of India), Smart City Mission and Government of Telangana at IIIT-H. The research center includes a Living Lab, which is a setup with support from EBTC and Amsterdam Innovation Arena. The Building on the Smart Campus @ IIITH Smart City Research Center is based on the following Objectives: There is a huge push for smart cities in India under the Smart Cities Mission, a new initiative by the Government of India to drive economic growth and improve the quality of life of people by enabling local development and harnessing technology to create smart outcomes for citizens. In this ambitious project, 100 cities are being covered for the duration of 5 years with a budget of Rs.100 crore per city per year. The goal of the Living Lab plan is to create an urban area enhancing three value domains: social, economic and environmental. Thus developed Living Lab shall enable the following:
+
+Generate data for research
+Get expertise in IoT for Smart Cities related research and deployment
+Creation of a viable innovation and demand driven ecosystem in universities.
+Provide a test bench for IoT based Smart City implementations to start-ups as well as big companies
+FAQ
+Q: What is the challenge Timeline?
+Q: What is the selection process?
+Partners :
+Ministry of Electronics & Information Technology
+National Smart City Mission
+Govt of Telangana.
+Corporate Partners :
+CBRE
+Intel
+Silicon Labs
+
+
+
+

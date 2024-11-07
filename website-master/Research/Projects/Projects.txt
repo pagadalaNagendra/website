@@ -1,0 +1,26 @@
+Projects:
+
+
+Air Quality
+Measurement of Air Quality parameters and try to verify, fine-tune or improve the existing ambient air quality models.
+
+Water
+Monitors and collects the water parameters and uses the data to control the water consumption and water quality evaluation.
+
+Solar
+It monitors and gathers solar-related data to manage energy consumption and optimize the utilization of solar energy resources.
+
+Energy Monitoring
+Monitor energy generation and consumption in and around the campus to regulate the usage of electronic appliances and help in optimize the power consumption.
+
+Smart Space
+Uses the infrastructure and provides controls for a room to use the power effectively. It monitors and collects the data related to temperature, humidity, Co2 levels and movement and adjusts the room HVAC controls accordingly. Smart energy home devices
+
+Crowd Monitoring
+Measures the crowd density (#of people), mask violations (#of violations in a zone), safe distance violations (#no of violations in a zone) to develop a crowd management solution for smart camps/cities
+
+Smart Lamp-post
+Based on the external light available, it automatically controls the on/off switching of the streetlights. It also presents the air quality, weather condition etc.
+
+
+Note it will connet to api website it getting sdata from api

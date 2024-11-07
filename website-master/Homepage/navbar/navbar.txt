@@ -1,0 +1,12 @@
+Navbar: 1.social media:- 
+                  i.	icofont-instagram:  smartcitylivinglab
+                  ii.	icofont-linkedin:  smartcity living lab 
+                  iii.	icofont-twitter: @sclivinglabhyd 
+                  iv.	icofont-phone : 040-66531786 
+                  v.	icofont-envelope: smartcityresearch@iiit.ac.in 
+                  vi.	icofont-facebook:  smartcitylivinglablIITH
+
+
+secondary navbar:
+title: Smart City Living Lab
+

@@ -1,0 +1,6 @@
+about-us   --- overview
+
+
+In India, there is a major effort for smart cities under the Smart Cities Mission, an initiative launched by the Government of India to accelerate economic growth and improve people's quality of life by enabling local development and utilizing technology to create smart outcomes for citizens. This ambitious project would reach 100 cities over a duration of five years, with a budget of Rs.100 crore every year. The mission focuses mainly on 24 major transformational aspects.
+
+IIIT-Hyderabad established a Center of Excellence on IoT for Smart Cities in January 2019, leveraging its core and domain capabilities and with support from the India-EU collaboration. IIIT-H, in collaboration with other knowledge partners such as EBTC LAAS-CNRS, proposed taking this living lab initiative to the next level with support from the Ministry of Electronics and Information Technology (MEITY) and the State Government of Telangana. The IIIT (International Institute of Information Technology) Campus in Hyderabad applied their smart city strategy to establish a Living Lab on campus, resulting in an urban region that improves three value domains: social, economic, and environmental. This leads to in a liveable and renewable area that will be a new urban centre in Hyderabad.

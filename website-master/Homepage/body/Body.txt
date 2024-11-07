@@ -1,0 +1,159 @@
+Body:
+
+1.Welcome to Smart City Research Center
+MEITY (Government of India), Smart City Mission, and the Telangana government have all contributed to the establishment of the Smart City Research Center. The research centre contains a Living Lab, which was set up with the technology support from EBTC and Amsterdam Innovation Arena.
+
+2.IIIT Hyderabad
+IIIT Hyderabad is an autonomous institution that was established in 1998 as a not-for-profit public-private partnership. It is the first IIIT in India to follow this model. IIIT_H has grown in significance over the past two decades and is now regarded as one of the best technical education institutes in the country.
+
+3.Smart City Living Lab
+The Living Lab concept is built on a collaborative framework and the management of an ecosystem involving various stakeholders. This includes governments, academia, innovators, industry, incubators, and collaboration facilitators.
+
+4.Corporates join hands with Smart City Living Lab
+
+
+
+1.1 living lab: User-centered, iterative, open-innovation ecosystem.  ---- bx bx-radar
+
+1.2 Research: Innovations and interesting research ideas in place.  -----   bx bxl-react
+
+1.3 Programs: Opportunities to get associated with smart city research.  ----    bx bxs-graduation
+
+1.4 Dashboard: At-a-glance views of key performance indicators .  -----  bx bxs-dashboard
+
+
+
+About Us:
+
+The Smart City Research Center is setup with support from MEITY (Government of India), Smart City Mission and Government of Telangana at IIITH. The research center includes a Living Lab, that is a setup with support from EBTC and Amsterdam Innovation Arena.
+
+There is a huge push for smart cities in India under the Smart Cities Mission, a new initiative by the Government of India to drive economic growth and improve the quality of life of people by enabling local development and harnessing technology to create smart outcomes for citizens. In this ambitious project, 100 cities are being covered for the duration of 5 years with a budget of Rs.100 crore per city per year. The goal of the Living Lab plan is to create an urban area enhancing three value domains: social, economic and environmental.
+
+Thus developed Living Lab shall enable the following:
+
+Get expertise in IoT for Smart Cities related research and deployment
+Generate data for research
+Creation of a viable innovation and demand driven ecosystem in universities.
+Provide a test bench for IoT based Smart City implementations to start-ups as well as big companies
+
+
+Living Lab:
+
+“With support from EU and Indian agencies, IIITH launched a Living Lab to collaborate with government bodies, start-ups and big organisations on Smart City solutions”. The IIITH campus would include different IoT verticals related to air quality, building energy, water quantity and quality, street lighting, etc.
+
+Through the Living Lab, IIIT-H plans to transform the campus into a platform for learning, experimentation and for showcasing new ideas and approaches. “As technology goes mainstream and directly into homes, buildings, campuses and cities, it is imperative that access to such spaces should be available to ensure that the right products are defined, designed and built. Without live access to such spaces, solutions or products may end up being theoretical and not actually usable,” explains Professor Ramesh.
+
+
+Our Partners:
+
+The Smart City Research Center is setup with support from MEITY (Government of India), Smart City Mission and Government of Telangana at IIITH. The research center includes a Living Lab, that is a setup with support from EBTC and Amsterdam Innovation Arena.
+
+
+
+Leadership Team
+The team of professionals behind all the amazing work.
+
+Dr. Aftab Hussain
+Asst. Professor, Ph.D (KAUST, Saudi Arabia)
+Interest:
+
+Flexible & Stretchable Electronics, IoT, Smart City Research, LoRaWAN Devices
+
+
+Ramesh Loganathan
+Professor of Practice & Co-innovations
+Interest:
+
+Software Engineering, Entrepreneurship, Innovation Leadership
+
+
+Dr. Vishal Garg
+Professor, Ph.D (IIT, Delhi), on leave to Plaksha University
+Interest:
+
+Intelligent Building, IT in Building Science, Fuzzy Logic Based Protocol for WSN
+
+
+Dr. Sachin Chaudhari
+Associate Professor, Ph.D (Alto University, Finland)
+Interest:
+
+Internet of Things (IoT), Next Generation Wireless Communication, Cognitive Radio
+
+
+Dr. Karthik Vaidhyanathan
+Asst. Professor, Ph.D (GSSI, Italy)
+Interest:
+
+Software architecture, Self-adaptive Systems, IoT, ML4SE, SE4ML, Green Software, Model-driven engineering
+
+
+Dr. Deepak Gangadharan
+Asst. Professor, Ph.D (NUS, Singapore)
+Interest:
+
+Edge Based IoT Systems, Real Time Distributed Systems, Hardware/Software Co-Design
+
+
+Anuradha Vattem
+Chief Technology Architect
+Interest:
+
+Design and Development of Embedded Systems
+
+
+Prakash Yalla
+Head- Technology Transfer, Products Lab
+Interest:
+
+Enabling Market Relevant Products from Research Lab Output
+Note it getting data from api website 
+
+
+
+
+
+Frequently Asked Questions:
+
+1.What initiatives has the IIIT launched to address the IoT market?
+
+We have focused our efforts in three areas: institution building with IoT expertise, projects, and the student curriculum.
+
+
+2.Why is the Living Lab so focused on Smart City issues?
+
+Leveraging the core and domain strengths of IIITH, the living lab focuses on Smart City issues. Our efforts are aided by our international collaborations such as EBTC, PWC, LAAS and Bordeaux, which have a strong Smart City component to them.
+
+3. What will IIIT be working on next?
+
+Get expertise in IoT for Smart Cities related research and deployment Generate data for research Creation of a viable innovation and demand driven ecosystem in universities. Provide a test bench for IoT based Smart City implementations to start-ups as well as big companies
+
+
+
+Contact Us
+Location:
+IIIT-H Campus, Beside Gachibowli Stadium
+Hyderabad, Telangana
+INDIA 500 032
+
+
+
+Find us on map
+
+Email:
+smartcityresearch@iiit.ac.in
+
+Phone:
+040-66531786
+
+Twitter:
+@sclivinglabhyd
+
+LinkedIn:
+smart-city-living-lab-iiith
+
+Instragram:
+smartcitylivinglab
+
+Facebook:
+smartcitylivinglablIITH

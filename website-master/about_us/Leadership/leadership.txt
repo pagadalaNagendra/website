@@ -1,0 +1,62 @@
+About us -leadership:
+
+Leadership Team
+The leadership team that provides vision to our research center.
+
+
+Dr. Aftab Hussain
+Asst. Professor, Ph.D (KAUST, Saudi Arabia)
+Interest:
+
+Flexible & Stretchable Electronics, IoT, Smart City Research, LoRaWAN Devices
+
+
+Ramesh Loganathan
+Professor of Practice & Co-innovations
+Interest:
+
+Software Engineering, Entrepreneurship, Innovation Leadership
+
+
+Dr. Vishal Garg
+Professor, Ph.D (IIT, Delhi), on leave to Plaksha University
+Interest:
+
+Intelligent Building, IT in Building Science, Fuzzy Logic Based Protocol for WSN
+
+
+Dr. Sachin Chaudhari
+Associate Professor, Ph.D (Alto University, Finland)
+Interest:
+
+Internet of Things (IoT), Next Generation Wireless Communication, Cognitive Radio
+
+
+Dr. Karthik Vaidhyanathan
+Asst. Professor, Ph.D (GSSI, Italy)
+Interest:
+
+Software architecture, Self-adaptive Systems, IoT, ML4SE, SE4ML, Green Software, Model-driven engineering
+
+
+Dr. Deepak Gangadharan
+Asst. Professor, Ph.D (NUS, Singapore)
+Interest:
+
+Edge Based IoT Systems, Real Time Distributed Systems, Hardware/Software Co-Design
+
+
+Anuradha Vattem
+Chief Technology Architect
+Interest:
+
+Design and Development of Embedded Systems
+
+
+Prakash Yalla
+Head- Technology Transfer, Products Lab
+Interest:
+
+Enabling Market Relevant Products from Research Lab Output
+
+Note: it getting data from api
